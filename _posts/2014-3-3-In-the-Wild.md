@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017-August-10-Hello, World!
+title: In the Wild
 ---
 
 I'm 60 days into my first gig as a developer (2/3 through a 90-day professional apprenticeship). Now that I'm "in the wild" it seems like the perfect time to:
