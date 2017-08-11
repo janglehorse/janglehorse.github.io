@@ -20,10 +20,10 @@ So here goes.
 Its simple to understand, and very difficult to do. In fact, I would say no one can do it on their own, and it takes a lifetime to learn. Faith, community, yoga have all helped me get live this out. In practicing the above 3 things, I have had to actively move away from the following:
 
 <ul>
-<li><Negative self-talk/thinking</li>
-<li>Comparison to others</li>
-<li>Worry</li>
-<li>Finding my value in my work</li>
+  <li>Negative self-talk/thinking</li>
+  <li>Comparison to others</li>
+  <li>Worry</li>
+  <li>Finding my value in my work</li>
 </ul>
 
 Briefly, here's how the 3 build on one another. If I am practicing Kindness to myself and others, I will build myself up and those around me. If I celebrate my inherent value outside of my work, I am free to practice humility, its no longer about me, its about the work. This frees me to truly enjoy it, and receive whatever critiques I need to in order to get better at it. Of course its much messier in real life. Nevertheless, the impact of this cycle has been very real for myself and those around me.
