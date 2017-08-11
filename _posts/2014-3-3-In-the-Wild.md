@@ -5,8 +5,10 @@ title: In the Wild
 
 I'm 60 days into my first gig as a developer (2/3 through a 90-day professional apprenticeship). Now that I'm "in the wild" it seems like the perfect time to:
 
-a.) Share what I'm learning to solidify my own knowledge
-b.) Host my own blog as a fun, light side project
+<ul>
+<li>a.) Share what I'm learning to solidify my own knowledge</li>
+<li>b.) Host my own blog as a fun, light side project</li>
+</ul>
 
 So here goes.
 
