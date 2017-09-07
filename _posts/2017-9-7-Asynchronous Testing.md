@@ -19,8 +19,6 @@ The Async object
 The key to getting tests right was understanding the Async object. Essentially, when calling
 an asynchronous method, `async.complete()`, or `async.countdown()` must be invoked to tell Vertx unit to wait
 for the asynchronous result. If this is not done, timeout errors will follow, or worse, the test will "pass" by completing
-before any asynchronous results have come back, and at that point you  might as well be asking your cat to test your code.
-
-(https://http.cat/400)
+before any asynchronous results have come back, and at that point I might as well ask my 2 year old to test my code. 
 
 Sources: <http://vertx.io/docs/vertx-unit/java/>
