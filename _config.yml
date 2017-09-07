@@ -9,7 +9,7 @@ name: J. Caleb Travers
 description: Java Developer in St. Louis, MO
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://avatars1.githubusercontent.com/u/24481836?v=4&u=d165f0f83484c533eaca9eebe19b617b72a7cc54&s=400
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: jcalebtravers@icloud.com
   facebook:
   flickr:
   github: janglehorse
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/caleb-travers/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
