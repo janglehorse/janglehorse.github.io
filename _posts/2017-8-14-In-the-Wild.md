@@ -3,10 +3,7 @@ layout: post
 title: In the Wild
 ---
 
-I'm 60 days into my first gig as a developer (2/3 through a 90-day professional apprenticeship). Now that I'm "in the wild" it seems like the perfect time to:
-
-a.) Share what I'm learning to solidify my own knowledge
-b.) Host my own blog as a fun, light side project
+I'm 60 days into my first gig as a developer (2/3 through a 90-day professional apprenticeship). Now that I'm "in the wild" it seems like the perfect time to share what I'm learning to solidify my own knowledge.
 
 So here goes.
 
@@ -26,6 +23,6 @@ Its simple to understand, and very difficult to do. In fact, I would say no one 
   <li>Finding my value in my work</li>
 </ul>
 
-Briefly, here's how the 3 build on one another. If I am practicing Kindness to myself and others, I will build myself up and those around me. If I celebrate my inherent value outside of my work, I am free to practice humility, its no longer about me, its about the work. This frees me to truly enjoy it, and receive whatever critiques I need to in order to get better at it. Of course its much messier in real life. Nevertheless, the impact of this cycle has been very real for myself and those around me.
+Briefly, here's how the 3 build on one another. If I am practicing Kindness to myself and others, I will build myself up and those around me. If I celebrate my inherent value outside of my work, I am free to practice humility. Its no longer about me, its about the work. This frees me to truly enjoy it, and receive whatever critiques I need to in order to get better at it. Of course its much messier in real life. Nevertheless, the impact of this cycle has been very real for myself and those around me.
 
 So that's where I start, however poorly. From kindness, significance, and seeking to practice humility.
